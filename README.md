@@ -70,8 +70,6 @@ Currently building toward offensive security internships, especially around web 
 
 ---
 
-## Current Interest
-
 **PwnKit — CVE-2021-4034**
 
 I am currently studying PwnKit because it connects Linux privilege boundaries, environment handling, execution flow, and local privilege escalation behavior.
